@@ -1,4 +1,4 @@
-from flask import Blueprint, request, jsonify, make_response, current_app
+from flask import Blueprint, request, jsonify, make_response
 from src import db
 
 faculty_advisor = Blueprint('faculty_advisor', __name__)

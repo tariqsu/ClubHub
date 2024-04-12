@@ -3,7 +3,7 @@
 # Remove this file if you are not using it in your project
 ########################################################
 
-from flask import Blueprint, request, jsonify, make_response, current_app
+from flask import Blueprint, request, jsonify, current_app
 import json
 from src import db
 

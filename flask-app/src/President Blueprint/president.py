@@ -1,4 +1,4 @@
-from flask import Blueprint, request, current_app
+from flask import Blueprint, request
 from src import db
 
 club_president = Blueprint('club_president', __name__)
