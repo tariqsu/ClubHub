@@ -16,5 +16,8 @@ This repo contains a boilerplate setup for spinning up 3 Docker containers:
 1. Start the containers with `docker compose up`.  To run in detached mode, run `docker compose up -d`. 
 
 
+### ClubHub Project Overview!
+
+ClubHub is a platform designed for business clubs at Northeastern University, focusing on networking and community building. It aims to streamline club management by providing tailored functionalities for Club Presidents, Club Members, Faculty Advisors, and Alumni Members, reducing the administrative burden on club leaders, members, and advisors alike. ClubHub fosters a sense of belonging and community among its users, breaking down barriers to collaboration and operations. ClubHub enhances the club experience by providing a platform where members can easily engage, collaborate, and expand their professional networks within the Northeastern University business community. 
 
 
