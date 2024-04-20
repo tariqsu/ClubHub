@@ -62,7 +62,7 @@ services:
 
   ##################################################################
   # configure the AppSmith container (borrowed directly from Appsmith)
-   appsmith:
+  appsmith:
      image: index.docker.io/appsmith/appsmith-ce
      container_name: appsmith
      ports:
